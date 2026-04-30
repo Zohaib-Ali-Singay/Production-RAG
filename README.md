@@ -1,6 +1,5 @@
 # RAG Nutritional Chatbot
 
-![Live Demo](https://img.shields.io/badge/Live_Demo-Available-success?style=for-the-badge&logo=vercel)
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
 ![Supabase](https://img.shields.io/badge/Supabase-pgvector-green?style=for-the-badge&logo=supabase)
