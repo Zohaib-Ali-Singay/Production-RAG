@@ -6,8 +6,6 @@
 ![Supabase](https://img.shields.io/badge/Supabase-pgvector-green?style=for-the-badge&logo=supabase)
 ![OpenAI](https://img.shields.io/badge/OpenAI-Embeddings_&_LLM-white?style=for-the-badge&logo=openai)
 
-**Live Prototype:** [RAG Nutrition Bot on Lovable](https://zohaib-rag-nutrition-bot.lovable.app/)
-
 A Production-grade Retrieval-Augmented Generation (RAG) chatbot designed to accurately answer questions based on a massive human nutrition textbook. This project demonstrates end-to-end AI engineering, from data ingestion and semantic chunking to vector search and full-stack integration. 
 
 The UI/UX is inspired by the minimal, sleek design of the [ARC-AGI](https://arcprize.org/arc-agi) platform.
